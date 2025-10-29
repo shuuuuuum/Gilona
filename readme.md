@@ -1,4 +1,4 @@
-# Needle Magic Tattoo Studio - Веб-приложение
+# ООО "Гилона" - Веб-приложение
 
 ![Логотип](images/logo.svg)
 
